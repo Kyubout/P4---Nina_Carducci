@@ -10,5 +10,5 @@ Pour la version finale correspondant à ce repo, [cliquez ici !](https://kyubout
 ## Missions
 
  - Optimisation des performances, du SEO et de l'accessibilité du site. 
- - Ajout du référencement local et des réseaux sociaux.
+ - Ajout du référencement local et des meta tag réseaux sociaux.
  - Création d'un rapport reprenant toutes les modifications réalisées. 
